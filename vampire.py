@@ -70,7 +70,7 @@ try:
 except ValueError:
     exit()
 def banner():
-    print("[=] ðŸ˜Œ Testing New mathod By yousuf")
+    print("[=] ðŸ˜Œ Testing New mathod By VAMPIRE")
 current = datetime.now()
 ta = current.year
 bu = current.month
